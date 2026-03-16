@@ -12,20 +12,19 @@ Building real-world applications, mastering problem-solving, and exploring moder
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-singh-aa0b292b5)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahul-sisodiya)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rahul_sisodiya/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rahul_sisodiya)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/rahulsingh936805)
+
 
 ---
 
 ## 👨‍💻 About Me  
 
-I'm Rahul Singh, a CSE student passionate about **software development, DSA, and creating practical, meaningful applications**.  
+I'm Kartik Changra, a CSE student passionate about **software development, DSA, and creating practical, meaningful applications**.  
 I love building full-stack projects and exploring efficient solutions to real-world problems.
 
 ---
 
 ## 📧 Contact  
-**Email:** rahulsingh936805@gmail.com  
+**Email:** kartikchangra101@gmail.com  
 
 ---
 
@@ -38,28 +37,6 @@ GLA University, Mathura, Uttar Pradesh
 
 # 🚀 Projects  
 
-### ⭐ **QTrack – Health Queue & Appointment Management System**  
-**Tech:** MERN Stack, React, Tailwind CSS, Node.js, Express, MongoDB  
-- Complete multi-role application: **User, Doctor, Admin**  
-- Real-time queue tracking and appointment flow  
-- Analytics dashboard with charts & graphs  
-- Doctor search, patient records, queue history  
-- Community page with posts and interactions  
-- Modern UI with responsive design and clean structure  
-> A full-scale system built from scratch with both frontend and backend.
-
----
-
-### ⭐ **EasyRead – Digital Book Reader App**  
-**Tech:** MERN, React, Tailwind CSS  
-- Clean and distraction-free reading interface  
-- Upload, manage, and read books smoothly  
-- Light/Dark mode for better reading experience  
-- Fast, lightweight, and user-friendly  
-> Focused on delivering a smooth reading UX.
-https://easyread-1.onrender.com/
-
----
 
 ### 📝 **To-Do List App | HTML, CSS, JavaScript**  
 - Add, edit, and delete daily tasks  
